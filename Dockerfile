@@ -1,3 +1,3 @@
-FROM ubuntu:wq
+FROM ubuntu
 
 RUN apt-get install –y nginx 
