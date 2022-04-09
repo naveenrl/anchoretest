@@ -1,4 +1,3 @@
-FROM ubuntu 
-MAINTAINER demousr@gmail.com 
+FROM ubuntu:wq
 
 RUN apt-get install –y nginx 
