@@ -5,7 +5,7 @@ registryCredential = 'docker'
 }
 agent any
 stages {
-stage('Cloning Git') {
+stage('Cloning Git1') {
  steps {
  git "https://github.com/kshitijtest/anchoretest.git"
  }}
