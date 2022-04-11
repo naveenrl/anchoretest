@@ -1,1 +1,1 @@
-FROM ubuntu
+FROM openjdk:11-jdk
